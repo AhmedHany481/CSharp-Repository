@@ -10,9 +10,13 @@ namespace FIRST_Program
     {
         static void Main(string[] args)
         {
+            //This is my first program
             Console.WriteLine("hello world");
             Console.ReadKey();
             Console.ReadLine();
+            
+            
+
         }
     }
 }
